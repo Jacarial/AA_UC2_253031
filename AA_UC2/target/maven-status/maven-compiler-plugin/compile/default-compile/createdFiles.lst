@@ -2,3 +2,5 @@ BubbleSort\Main.class
 SelectionSort\OrdenamientoSelect.class
 SelectionSort\Main.class
 BubbleSort\Ordenamientos.class
+InsertionSort\Main.class
+InsertionSort\OrdenamientoInsertion.class
