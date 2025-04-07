@@ -1,6 +1,10 @@
+MergeSort\OrdenamientoMerge.class
 BubbleSort\Main.class
-SelectionSort\OrdenamientoSelect.class
+MergeSort\Main.class
 SelectionSort\Main.class
 BubbleSort\Ordenamientos.class
 InsertionSort\Main.class
 InsertionSort\OrdenamientoInsertion.class
+QuickSort\OrdenamientoQuick.class
+SelectionSort\OrdenamientoSelect.class
+QuickSort\Main.class
